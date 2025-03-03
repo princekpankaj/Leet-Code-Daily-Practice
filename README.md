@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
