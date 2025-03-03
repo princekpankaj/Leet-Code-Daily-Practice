@@ -1,11 +1,14 @@
 class Solution {
     public char repeatedCharacter(String s) {
-        for (int i = 0; i < s.length(); i++ ) {
-            String subString = s.substring(0, i);
-            if (subString.contains(String.valueOf(s.charAt(i)))) {
-                return s.charAt(i);
-            }
+        int[] freq = new int[26]; 
+        for(int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            int index = c - 'a'; 
+            if(freq[index] != 0) 
+                return c; 
+            else 
+                freq[index]++; 
         }
-        return 'a';
+        return '\0'; 
     }
 }
