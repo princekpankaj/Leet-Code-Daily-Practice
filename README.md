@@ -30,11 +30,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
