@@ -23,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
