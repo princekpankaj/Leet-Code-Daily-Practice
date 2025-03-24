@@ -23,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -73,6 +74,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
