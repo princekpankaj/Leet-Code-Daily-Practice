@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -86,4 +87,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
