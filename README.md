@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -78,10 +79,12 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
