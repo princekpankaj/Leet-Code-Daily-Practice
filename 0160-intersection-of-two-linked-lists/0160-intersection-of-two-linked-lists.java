@@ -10,29 +10,38 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int lengthA = getSize(headA);
-        int lengthB = getSize(headB);
-
-        while (lengthA < lengthB) {
-            headB = headB.next;
-            lengthB--;
+    public ListNode getNthNode(ListNode head, int index){
+        ListNode temp = head;
+        while(index!=0){
+            temp = temp.next;
+            index--;
         }
-
-        while (lengthA > lengthB) {
-            headA = headA.next;
-            lengthA--;
-        }
-
-        while (headA != null && headB != null) {
-            if (headA == headB)
-                return headA;
-            headA = headA.next;
-
-            headB = headB.next;
-        }
-        return null;
+        return temp;
     }
+
+
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        int size1 = getSize(headA);
+        int size2 = getSize(headB);
+
+        int diff = Math.abs(size1 - size2);
+
+        if(size1>size2){
+            headA = getNthNode(headA, diff);
+        
+        }else{
+            headB = getNthNode(headB, diff);
+        }
+
+        while(headA!= null && headB != null && headA!= headB){
+            headA = headA.next;
+            headB = headB.next;
+        }
+        return headA;
+        
+    }
+
+    
 
     public int getSize(ListNode head) {
         int length = 0;
