@@ -49,6 +49,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -91,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
