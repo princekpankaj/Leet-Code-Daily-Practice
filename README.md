@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -143,4 +145,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
