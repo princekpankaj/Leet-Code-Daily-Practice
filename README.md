@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -45,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
