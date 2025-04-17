@@ -156,4 +156,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
