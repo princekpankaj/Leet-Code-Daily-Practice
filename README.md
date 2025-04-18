@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0198-house-robber](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
