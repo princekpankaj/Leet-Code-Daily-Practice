@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0213-house-robber-ii) |
@@ -29,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
@@ -171,4 +173,8 @@
 | [1258-article-views-i](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
