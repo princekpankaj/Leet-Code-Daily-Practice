@@ -20,10 +20,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -35,6 +37,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
