@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
@@ -29,6 +30,7 @@
 | [0070-climbing-stairs](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -92,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
