@@ -60,6 +60,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [0049-group-anagrams](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [2427-first-letter-to-appear-twice](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
