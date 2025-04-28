@@ -18,6 +18,7 @@
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
