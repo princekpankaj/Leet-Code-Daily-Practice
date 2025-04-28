@@ -149,6 +149,7 @@
 | [0112-path-sum](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0226-invert-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0112-path-sum](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
