@@ -18,6 +18,7 @@
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
 |  |
@@ -108,6 +109,7 @@
 | [0074-search-a-2d-matrix](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -212,4 +214,9 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
