@@ -18,6 +18,7 @@
 | [0739-daily-temperatures](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
@@ -44,6 +45,7 @@
 | [0258-add-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
