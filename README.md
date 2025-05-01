@@ -118,6 +118,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/0234-palindrome-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/princekpankaj/Leet-Code-Daily-Practice/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
 | ------- |
